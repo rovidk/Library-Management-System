@@ -7,9 +7,6 @@ registration in library management system. User can Issued the books from librar
 Returning books to the library user must have to pay the amount of book as per calculate by number of days book
 issued to user. Books Payment should be Deducted from Security amount of User. 
 
-APPLICATIONS USERS:
-"ADMIN" is the super user account which having some special permissions as compare to normal Users.
-
 "ADMIN" Rights:
 1 - Add/Remove Books Categories.
 2 - Add/Remove Books.
